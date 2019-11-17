@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.mp4
 *.png
+.DS_Store/
 
 
 # C extensions
@@ -124,3 +125,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode/settings.json
